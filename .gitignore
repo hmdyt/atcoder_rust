@@ -12,3 +12,6 @@ Cargo.lock
 # cargo compete
 template-cargo-lock.toml
 *testcases*
+
+# DS_Store
+*/.DS_Store
