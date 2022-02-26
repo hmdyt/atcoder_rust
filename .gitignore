@@ -15,3 +15,6 @@ template-cargo-lock.toml
 
 # DS_Store
 */.DS_Store
+
+# ahc tool
+ahc008/tools/*
